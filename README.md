@@ -21,11 +21,6 @@ Currently, I'm diving deep into the world of building automation at DSP Engineer
 
 I'm a lifelong learner, currently pursuing my Master's in Computer Science at the University of Peradeniya. I'm also constantly exploring new technologies and expanding my skillset through online courses and personal projects.
 
-## ⚡ Fun Facts
-
-* I'm a badminton enthusiast! I've even captained my college team and won a few awards along the way. 🏸
-* I'm passionate about giving back to the community. I've volunteered with the Rotaract Club and led projects to improve educational resources for students. 
-
 ## 📫 Let's Connect
 
 I'm always open to collaborating on exciting projects or just having a chat about tech. Feel free to reach out via LinkedIn or email!
