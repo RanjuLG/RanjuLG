@@ -8,10 +8,10 @@ I'm a passionate Software Engineer with a knack for building robust solutions th
 
 ## 🚀 Skills & Expertise
 
-* **Full-Stack Development:** C#, Angular, REST APIs, .NET Framework, ASP.NET Core
-* **Database Management:** SQL Server, MongoDB
+* **Full-Stack Development:** C#,JavaScript Angular, REST APIs, .NET Framework, ASP.NET Core
+* **Database Management:** SQL Server, MySQL MongoDB
 * **Version Control:** Git
-* **Other:** Java, JavaScript, Python
+* **Other:** Java, Python
 
 ## 🔭 Current Focus
 
