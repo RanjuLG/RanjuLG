@@ -15,8 +15,6 @@ I'm a passionate Software Engineer with a knack for building robust solutions th
 
 ## 🔭 Current Focus
 
-## 🔭 Current Focus
-
 Currently, I'm diving deep into the world of building automation at DSP Engineering Solution. I'm designing and developing software that helps buildings run more efficiently and sustainably, all while pursuing my Master's in Computer Science at the Postgraduate Institute of Science, University of Peradeniya.
 
 ## 🌱 Learning & Growth
