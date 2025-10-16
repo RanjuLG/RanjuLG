@@ -1,4 +1,4 @@
-# Hi there, I'm Ranju Laksahan 👋
+# Hi there, I'm Ranju👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ranju-laksahan-gamage-47635519b)](https://www.linkedin.com/in/ranju-gamage-47635519b)   
   
