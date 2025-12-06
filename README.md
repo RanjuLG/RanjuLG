@@ -1,6 +1,6 @@
 # Hi there, I'm Ranju👋
 
-[![Website Badge](https://img.shields. io/badge/-Website-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.ranjugamage. dev)](https://www.ranjugamage.dev)
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.ranjugamage.dev)](https://www.ranjugamage.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ranju-laksahan-gamage-47635519b)](https://www.linkedin.com/in/ranju-gamage-47635519b)   
   
  
