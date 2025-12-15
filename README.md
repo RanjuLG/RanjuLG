@@ -35,7 +35,7 @@ I engineer solutions that make buildings "think." currently, I'm focused on full
 ---
 
 ### 📊 GitHub Stats
-![Ranju's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
+![Ranju's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanjuLG&show_icons=true&theme=radical)
 
 ---
 
