@@ -9,9 +9,8 @@
 
 I engineer solutions that make buildings "think." currently, I'm focused on full-stack development and real-time data analytics to drive efficiency and sustainability in the built environment.
 
-- 🔭 **Currently working on:** Next-gen building automation at **DSP Engineering Solution**.
+- 🔭 **Currently working on:** Next-gen building automation at **The Maintenance Master**.
 - 🎓 **Currently studying:** Masters in Computer Science at the **University of Peradeniya**.
-- 💡 **Ask me about:** .NET Ecosystems, Angular, and making hardware talk to software.
 
 ---
 
